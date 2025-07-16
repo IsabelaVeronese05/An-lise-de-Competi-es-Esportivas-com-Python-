@@ -37,7 +37,7 @@ A base `meets.csv` contém **8482 registros** com as seguintes colunas:
 - NumPy
 - Matplotlib
 - Seaborn
-
+- Jupyter Notebook
 
 ---
 
